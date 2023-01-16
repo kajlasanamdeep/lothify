@@ -14,7 +14,7 @@ const Footer = () => {
           </ul>
           <ul className='d-flex list-unstyled justify-content-center '>
             <li>
-              <a className='nav-link' href='https://www.instagram.com/lithofy.soviet/'>
+              <a className='nav-link' href='https://www.instagram.com/lithofy/?igshid=YmMyMTA2M2Y%3D'>
                 <FaInstagram />
               </a>
             </li>

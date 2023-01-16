@@ -23,6 +23,9 @@
     border: none;
     padding: 3px 20px;
 }
+.firstdiv img{
+    width: 100%;
+}
 @media (max-width:998.98px) {
     .firstdiv img{
         display: none;

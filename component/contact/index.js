@@ -1,5 +1,7 @@
 import React from 'react'
-import style from './contact.module.css'
+import style from './contact.module.css';
+import { FaInstagram } from "react-icons/fa";
+
 const index = () => {
     return (
         <>
@@ -39,6 +41,10 @@ const index = () => {
                                         <textarea type='text' className='form-control border-dark bg-transparent' />
                                     </div>
                                     <button className='btn mt-2 px-5 btn-success'>Send</button>
+                                    <br/>
+                                    <a className='nav-link mt-2 fw-bold' target={'_blank'} href='https://www.instagram.com/lithofy/?igshid=YmMyMTA2M2Y%3D'>
+                                        <FaInstagram />{" "} Instagram
+                                    </a>
                                 </div>
                             </div>
                         </div>

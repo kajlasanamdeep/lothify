@@ -1,3 +1,13 @@
-:root{
+:root {
     font-family: cursive;
+}
+
+@media (max-width:767.98px) {
+    .slick-next {
+        display: none !important;
+    }
+
+    .slick-prev {
+        display: none !important;
+    }
 }
