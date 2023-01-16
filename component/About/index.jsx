@@ -12,7 +12,7 @@ const About = () => {
             </div>
             <div className='ms-5 mt-5'>
               <p className={style.secondheading}>Looking for some art<br /> Inspiration??</p>
-              <a target='_blank' href='https://www.instagram.com/lithofy.soviet/' className={style.button}>Follow us on Instagram</a>
+              <a target='_blank' href='https://www.instagram.com/lithofy/?igshid=YmMyMTA2M2Y%3D' className={style.button}>Follow us on Instagram</a>
             </div>
           </div>
         </div>
