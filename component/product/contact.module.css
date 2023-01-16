@@ -1,0 +1,28 @@
+.heading{
+    margin: 50px 0px;
+    font-size: x-large;
+}
+.price{
+    margin-top: 10px;
+    font-size: large;
+}
+.section{
+    padding-top: 50px;
+    font-family:cursive;
+}
+.num{
+    width:90px;
+    margin-top: 10px;
+}
+.label{
+    margin-top: 10px;
+}
+.leftdiv img{
+    width: 420px;
+}
+
+@media screen and (max-width:400px) {
+    .leftdiv img{
+        width: 300px;
+    }
+}

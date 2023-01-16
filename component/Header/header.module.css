@@ -1,0 +1,13 @@
+.logo{
+    font-size: 22px;
+    font-weight: 600;
+}
+.ul{
+    margin-left: auto;
+    gap: 30px;
+    font-size: 18px;
+}
+.icon{
+    height: 30px;
+    width: 30px;
+}

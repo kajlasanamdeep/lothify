@@ -1,0 +1,36 @@
+.mint5about .about-content {
+    padding-right: 20px;
+}
+.mint5about{
+    background-image: url('../../public/about.jpg');
+    background-size: cover;
+    padding: 100px 0px;
+}
+.heading{
+    color: black;
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 48px;
+}
+.maincontent p{
+    font-size: 24px;
+    line-height: 40px;
+}
+.secondheading{
+    font-size: 28px;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(157, 156, 156);
+    padding: 8px 50px;
+    border: none;
+}
+
+@media (min-width:991.98px) {
+    .maincontent{
+        padding: 0px 283px;
+        align-items: center;
+    } 
+}
+
+

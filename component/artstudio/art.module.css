@@ -1,0 +1,44 @@
+.section{
+    background-image: url('../../public/bannerbg.webp');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+@media (min-width:991.98px) {
+    .contentdiv{
+        background-color: white;
+        padding: 20px 200px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }  
+}
+
+.imgdiv{
+    background-color: rgb(155, 155, 155);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imgdiv img{
+    width: 80%;
+}
+.div1{
+    padding: 40px 0px;
+    background-color: rgba(255, 255, 255, 0.674);
+}
+.div2{
+    margin-top: 20px;
+    padding: 30px 0px;
+    background-color: rgba(255, 255, 255, 0.674);
+
+
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

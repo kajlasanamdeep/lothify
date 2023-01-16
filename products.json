@@ -1,0 +1,66 @@
+[
+    {
+      "src": "/slide1.jpg",
+      "title": "Beautiful bright wall art surely to add life ur walls",
+      "des": "Size 3 by 2 feet",
+      "height":"3 feet",
+      "width":"2 feet",
+      "Price": 6500
+    },
+    {
+      "src": "/slide2.jpg",
+      "title": "Intricate details and delicate brushwork reflecting happiness",
+      "des": "Size 36 inches by 18 inches",
+      "height":"36 inches",
+      "width":"18 inches",
+      "Price": 6000
+    },
+    {
+      "src": "/slide3.jpg",
+      "title": "Having a textured abstract in ur living room creates a luxurious aura",
+      "des": "Size 3 by 2.4 feet ",
+      "height":"3 feet",
+      "width":"2.4 feet",
+      "Price": 5600
+    },
+    {
+      "src": "/slide4.jpg",
+      "title": "Floral , acrylics on canvas",
+      "des": "Size 2 by 2 feet ",
+      "height":"2 feet",
+      "width":"2 feet",
+      "Price": 4000
+    },
+    {
+      "src": "/slide5.jpg",
+      "title": "Abstract textured paintingr",
+      "des": "Size 20 inches by 15",
+      "height":"20 inches",
+      "width":"15 inches",
+      "Price": 6000
+    },
+    {
+      "src": "/slide6.jpg",
+      "title": "Knife and acrylics on canvas",
+      "des": "Size 3 by 2 feet",
+      "height":"3 feet",
+      "width":"2 feet",
+      "Price": 6500
+    },
+    {
+      "src": "/slide7.jpg",
+      "title": "Oils on canvas",
+      "des": "Size 12 by 12 inches",
+      "height":"12 inches",
+      "width":"12 inches",
+      "Price": 1200
+    },
+    {
+      "src": "/slide8.jpg",
+      "title": "Tropical acrylics",
+      "des": "Size 12 by 18 inches",
+      "height":"12 inches",
+      "width":"18 inches",
+      "Price": 1200
+    }
+  ]
