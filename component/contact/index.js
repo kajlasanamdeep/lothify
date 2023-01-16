@@ -18,7 +18,7 @@ const index = () => {
                                     Sat Paul Mittal School</h4>
                                 <h4>Ludhiana, Punjab</h4>
                                 <h6>lithofy.soviet@gmail.com  |
-                                    +91 8837779279</h6><br />
+                                   +91 95010 55555</h6><br />
                                 <div>
                                     <div className='d-flex'>
                                         <div className='p-1'>
